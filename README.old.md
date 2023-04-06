@@ -27,6 +27,6 @@ HOCs/Layouts:
          >>Poster            Poster.Component.jsx
          >>PosterSlider      PosterSliderComponent.jsx
 
-
+npx create-react-app .
          
 
